@@ -1,5 +1,5 @@
 ---
 layout: page
 title: CV
-permalink: /assets/FinnSchuele_CV.pdf/
+permalink: https://finnschule.github.io/uploads/FinnSchule_CV.pdf
 ---
