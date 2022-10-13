@@ -23,7 +23,7 @@ email: finn_schuele@brown.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Brown University PhD student interested in macroeconomics, monetary policy, labor
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.finnschule.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FinnSchule
 github_username: finnschule
 markdown: kramdown
