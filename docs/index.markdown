@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Brown University PhD Student in Economics
 ---
 
-# Brown University PhD Student in Economics
-
-Welcome to my website! I am a PhD Student in Economics at Brown University iterested in macroeconomics, monetary policy, and labor. I was previously a research assistant at the Brookings Institution. 
+Welcome to my website! I am a PhD Student in Economics at Brown University iterested in macroeconomics, monetary policy, and labor. I was previously a research assistant at the Brookings Institution: Hutchins Center on Fiscal and Monetary Policy with Ben Bernanke and Louise Sheiner. 
