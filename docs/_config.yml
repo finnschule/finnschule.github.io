@@ -21,11 +21,11 @@
 title: Finn Schüle
 email: finn_schuele@brown.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website! I am a PhD student in economics at Brown University. I am interested in macroeconomics, monetary policy, and labor.
+  Brown University PhD student interested in macroeconmics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: FinnSchule
+github_username: finnschule
 
 # Build settings
 theme: minima
