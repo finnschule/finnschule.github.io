@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Brown University PhD Student in Economics
+
+Welcome to my website! I am a PhD Student in Economics at Brown University iterested in macroeconomics, monetary policy, and labor. I was previously a research assistant at the Brookings Institution. 
