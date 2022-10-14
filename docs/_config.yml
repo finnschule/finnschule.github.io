@@ -28,10 +28,14 @@ twitter_username: FinnSchule
 github_username: finnschule
 markdown: kramdown
 
+social links:
+  google_scholar_id: Skn1vK8AAAAJ
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
