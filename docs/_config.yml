@@ -24,37 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Brown University PhD student interested in macroeconomics, monetary policy, labor
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.finnschule.com" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: FinnSchule
-# github_username: finnschule
+twitter_username: FinnSchule
+github_username: finnschule
 # google_scholar_username: Skn1vK8AAAAJ
 markdown: kramdown
-
-social_links:
-    twitter: FinnSchule
-    github:  finnschule
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-    google_scholar_id: Skn1vK8AAAAJ
 
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
