@@ -11,4 +11,4 @@ order: 1
 
 ## Working Papers
 
-Coming soon!
+[Unemployment in a Production Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449027) *With Haoyu Sheng.*
