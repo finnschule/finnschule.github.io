@@ -17,6 +17,6 @@ We explore the fiscal sustainability of US state and local government pension pl
 
 ### [Unemployment in a Production Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449027)
 
-*With Haoyu Sheng.*
+*With Haoyu Sheng.* (2023) Available at SSRN.
 
 We develop a framework for studying unemployment in a production network by incorporating sector-specific search and matching frictions. We derive aggregation formulae for how output and unemployment respond to sector-specific productivity and labor supply shocks. Specifically, output aggregation can be decomposed into two channels, the input-output channel, which can be expressed in terms of sales shares, and the network-adjusted search-and-matching channel, which depends on the interaction between labor market frictions and an occupational-labor-share-weighted Leontief inverse. We show that the foundational theorem of Hulten (1978) is a special case of the network we study, when wages respond to exactly offset changes in the network-adjusted marginal productivity of labor. Additionally, the wage assumption is essential for determining whether matching frictions amplify or dampen the impact of shocks. For example, when wages rise by less than the network-adjusted marginal product of labor in response to a positive technology shock, firms increase their hiring, amplifying the positive effect on output, and vice versa.  We calibrate our model to the US data and show that search and matching is both quantitatively and qualitatively important for the propagation of technology and labor force shocks.
