@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/forward-guidance/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/tags/forward-guidance/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/great-depression/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/tags/great-depression/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/monetary-policy/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/tags/monetary-policy/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/papers/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/tags/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/fg_puzzle/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/papers/fg_puzzle/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/production-networks/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/tags/production-networks/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/search-and-matching/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/tags/search-and-matching/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/labor_network/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/papers/labor_network/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/public-finance/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/tags/public-finance/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/public-pensions/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/tags/public-pensions/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/public_pensions/</loc>
+    <loc>https://github.com/finnschule/finnschule.github.io/papers/public_pensions/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>
