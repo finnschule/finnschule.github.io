@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Production Networks on Finn Schüle</title>
-    <link>https://github.com/finnschule/finnschule.github.io/tags/production-networks/</link>
+    <link>https://www.finnschule.com/tags/production-networks/</link>
     <description>Recent content in Production Networks on Finn Schüle</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/finnschule/finnschule.github.io/tags/production-networks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.finnschule.com/tags/production-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unemployment in a Production Network</title>
-      <link>https://github.com/finnschule/finnschule.github.io/papers/labor_network/</link>
+      <link>https://www.finnschule.com/papers/labor_network/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/finnschule/finnschule.github.io/papers/labor_network/</guid>
+      <guid>https://www.finnschule.com/papers/labor_network/</guid>
       <description>This paper describes explores how search-and-matching on the labor market alters the propagation of shocks in a production network. Working paper, 2024.</description>
     </item>
   </channel>

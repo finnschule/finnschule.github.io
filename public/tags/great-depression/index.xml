@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Great Depression on Finn Schüle</title>
-    <link>https://github.com/finnschule/finnschule.github.io/tags/great-depression/</link>
+    <link>https://www.finnschule.com/tags/great-depression/</link>
     <description>Recent content in Great Depression on Finn Schüle</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/finnschule/finnschule.github.io/tags/great-depression/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.finnschule.com/tags/great-depression/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Forward Guidance Puzzle is Not a Puzzle</title>
-      <link>https://github.com/finnschule/finnschule.github.io/papers/fg_puzzle/</link>
+      <link>https://www.finnschule.com/papers/fg_puzzle/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/finnschule/finnschule.github.io/papers/fg_puzzle/</guid>
+      <guid>https://www.finnschule.com/papers/fg_puzzle/</guid>
       <description>This paper argues that the forward guidance puzzle is not a puzzle. NBER Working Paper 33180.</description>
     </item>
   </channel>

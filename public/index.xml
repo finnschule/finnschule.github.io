@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Finn Schüle</title>
-    <link>https://github.com/finnschule/finnschule.github.io/</link>
+    <link>https://www.finnschule.com/</link>
     <description>Recent content on Finn Schüle</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/finnschule/finnschule.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.finnschule.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Forward Guidance Puzzle is Not a Puzzle</title>
-      <link>https://github.com/finnschule/finnschule.github.io/papers/fg_puzzle/</link>
+      <link>https://www.finnschule.com/papers/fg_puzzle/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/finnschule/finnschule.github.io/papers/fg_puzzle/</guid>
+      <guid>https://www.finnschule.com/papers/fg_puzzle/</guid>
       <description>This paper argues that the forward guidance puzzle is not a puzzle. NBER Working Paper 33180.</description>
     </item>
     <item>
       <title>Unemployment in a Production Network</title>
-      <link>https://github.com/finnschule/finnschule.github.io/papers/labor_network/</link>
+      <link>https://www.finnschule.com/papers/labor_network/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/finnschule/finnschule.github.io/papers/labor_network/</guid>
+      <guid>https://www.finnschule.com/papers/labor_network/</guid>
       <description>This paper describes explores how search-and-matching on the labor market alters the propagation of shocks in a production network. Working paper, 2024.</description>
     </item>
     <item>
       <title>The Sustainability of State and Local Pensions: A Public Finance Approach </title>
-      <link>https://github.com/finnschule/finnschule.github.io/papers/public_pensions/</link>
+      <link>https://www.finnschule.com/papers/public_pensions/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://github.com/finnschule/finnschule.github.io/papers/public_pensions/</guid>
+      <guid>https://www.finnschule.com/papers/public_pensions/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Brookings Papers on Economic Activity, 2021.</description>
     </item>
   </channel>
