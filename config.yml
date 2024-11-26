@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Finn Schüle
-          subtitle: "Hello! I am PhD student in Economics at Brown University. My research focuses on macroeconomics, monetary economics, production networks, and labor economics. Before starting graduate school, I worked on monetary policy and public finance as a research assistant at the Brookings Institution."
+          subtitle: "Hello! I a CHECK PhD student in Economics at Brown University. My research focuses on macroeconomics, monetary economics, production networks, and labor economics. Before starting graduate school, I worked on monetary policy and public finance as a research assistant at the Brookings Institution."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
