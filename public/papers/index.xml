@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Papers on Moritz-Maria von Igelfeld</title>
-    <link>https://www.finnschule.com/papers/</link>
-    <description>Recent content in Papers on Moritz-Maria von Igelfeld</description>
+    <title>Papers on Finn Schüle</title>
+    <link>http://localhost:1313/papers/</link>
+    <description>Recent content in Papers on Finn Schüle</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.finnschule.com/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Your Inner Hedgehog</title>
-      <link>https://www.finnschule.com/papers/paper3/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.finnschule.com/papers/paper3/</guid>
-      <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
+      <title>The Forward Guidance Puzzle is Not a Puzzle</title>
+      <link>http://localhost:1313/papers/fg_puzzle/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/fg_puzzle/</guid>
+      <description>This paper argues that the forward guidance puzzle is not a puzzle. NBER Working Paper 33180.</description>
     </item>
     <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>https://www.finnschule.com/papers/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.finnschule.com/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+      <title>Unemployment in a Production Network</title>
+      <link>http://localhost:1313/papers/labor_network/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/labor_network/</guid>
+      <description>This paper describes explores how search-and-matching on the labor market alters the propagation of shocks in a production network. Working paper, 2024.</description>
     </item>
     <item>
-      <title>The Finer Points of Sausage Dogs</title>
-      <link>https://www.finnschule.com/papers/paper2/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>https://www.finnschule.com/papers/paper2/</guid>
-      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
+      <title>The Sustainability of State and Local Pensions: A Public Finance Approach </title>
+      <link>http://localhost:1313/papers/public_pensions/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/public_pensions/</guid>
+      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Brookings Papers on Economic Activity, 2021.</description>
     </item>
   </channel>
 </rss>
