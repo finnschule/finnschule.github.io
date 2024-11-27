@@ -14,7 +14,7 @@ menu:
           url: papers/
           weight: 2
         - name: CV
-          url: cv/
+          url: cv.pdf
           weight: 3
         - name: Brookings Blog Posts
           url: https://www.brookings.edu/people/finn-schuele/
