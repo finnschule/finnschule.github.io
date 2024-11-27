@@ -31,13 +31,13 @@ In this paper we explore the fiscal sustainability of US state and local governm
 
 ##### Citation
 
-Lenney, Jamie., Byron Lutz, Finn Schüle, and Louise Sheiner. 2021. "The Sustainability of State and Local Pensions: A Public Finance Approach " *Brookings Papers on Economic Analysis* 2021 (2): 1-48. https://www.brookings.edu/wp-content/uploads/2021/03/15872-BPEA-SP21_WEB_Lenney-et-al.pdf.
+Lenney, Jamie., Byron Lutz, Finn Schüle, and Louise Sheiner. 2021. "The Sustainability of State and Local Pensions: A Public Finance Approach." *Brookings Papers on Economic Analysis* 2021 (2): 1-48. https://www.brookings.edu/wp-content/uploads/2021/03/15872-BPEA-SP21_WEB_Lenney-et-al.pdf.
 
 ```BibTeX
 @article{llss21,
 author = {Jamie Lenney, Byron Lutz , Finn Schüle , and Louise Sheiner},
 year = {2021},
-title ={The Sustainability of State and Local Pensions: A Public Finance Approach },
+title ={The Sustainability of State and Local Pensions: A Public Finance Approach},
 journal = {Brookings Papers on Economic Activity},
 volume = {2021},
 number={2},
