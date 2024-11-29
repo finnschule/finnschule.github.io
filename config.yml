@@ -21,7 +21,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am PhD student in economics at Brown University."
+    description: "I am PhD student in Economics at Brown University. My research focuses on macroeconomics, monetary policy, and labor."
     author: Finn Schüle
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
