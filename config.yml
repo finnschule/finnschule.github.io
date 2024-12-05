@@ -23,7 +23,7 @@ menu:
 params:
     description: "I am PhD student in Economics at Brown University. My research focuses on macroeconomics, monetary policy, and labor."
     author: Finn Schüle
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-V4CLT31NFQ"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
