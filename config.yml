@@ -11,10 +11,10 @@ taxonomies:
 menu:
     main:
         - name: Papers
-          url: papers/
+          url: /papers/
           weight: 2
         - name: CV
-          url: cv.pdf
+          url: /cv/
           weight: 3
         - name: Brookings Blog Posts
           url: https://www.brookings.edu/people/finn-schuele/
@@ -53,9 +53,9 @@ params:
           imageHeight: 160
           buttons:
             - name: Papers
-              url: papers/
+              url: /papers/
             - name: CV
-              url: cv.pdf
+              url: /cv/
             - name: Brookings Blog Posts
               url: https://www.brookings.edu/people/finn-schuele/
 
