@@ -16,8 +16,8 @@ menu:
         - name: CV
           url: /cv/
           weight: 3
-        - name: Brookings Blog Posts
-          url: https://www.brookings.edu/people/finn-schuele/
+        - name: Blog Posts
+          url: /blog/
           weight: 4
 
 params:
@@ -36,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","cv","brookings-blog-posts"]
+    MainSections: ["papers","cv","blog-posts"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -56,8 +56,8 @@ params:
               url: /papers/
             - name: CV
               url: /cv/
-            - name: Brookings Blog Posts
-              url: https://www.brookings.edu/people/finn-schuele/
+            - name: Blog Posts
+              url: /blog/
 
     socialIcons:
         - name: CV

@@ -1,0 +1,58 @@
+<a href="{{ .Get "link" }}" target="_blank" rel="noopener noreferrer" class="blog-box">
+    <div class="blog-container">
+        <h3 class="blog-title">{{ .Get "title" }}</h3>
+        <p class="blog-description">{{ .Get "description" }}</p>
+        <p class="blog-meta">{{ .Get "date" }} · {{ .Get "authors" }}</p>
+    </div>
+</a>
+
+<style>
+.blog-box {
+    display: block;
+    background-color: #F9F9F9; /* Light gray background */
+    border: 2px solid #E0E0E0; /* Uniform gray border */
+    border-radius: 12px; /* Slightly rounded corners */
+    padding: 24px;
+    margin: 16px 0;
+    text-decoration: none;
+    color: black;
+    max-width: 700px; /* Ensure consistent width */
+    box-shadow: none !important; /* Removes any shadow */
+}
+
+.blog-box:hover {
+    border-color: #d24c3d; /* Changes the entire border to red on hover */
+}
+
+/* Fixes bottom red shadow issue */
+.blog-box:hover, 
+.blog-box:focus {
+    border-width: 2px; /* Ensures the border remains the same thickness */
+}
+
+
+.blog-container {
+    max-width: 650px;
+}
+
+.blog-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #222; /* Darker for contrast */
+}
+
+.blog-description {
+    font-size: 16px;
+    color: #444; /* Slightly darker for readability */
+    line-height: 1.6;
+    margin-bottom: 12px;
+}
+
+.blog-meta {
+    font-size: 14px;
+    font-weight: 500;
+    color: #666; /* Soft gray for metadata */
+    margin-top: 10px;
+}
+</style>

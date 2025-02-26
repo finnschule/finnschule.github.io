@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Finn Schüle</title>
-    <link>https://finnschule.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Finn Schüle</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://finnschule.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forward Guidance</title>
-      <link>https://finnschule.github.io/tags/forward-guidance/</link>
+      <link>http://localhost:1313/tags/forward-guidance/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://finnschule.github.io/tags/forward-guidance/</guid>
+      <guid>http://localhost:1313/tags/forward-guidance/</guid>
       <description></description>
     </item>
     <item>
       <title>Great Depression</title>
-      <link>https://finnschule.github.io/tags/great-depression/</link>
+      <link>http://localhost:1313/tags/great-depression/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://finnschule.github.io/tags/great-depression/</guid>
+      <guid>http://localhost:1313/tags/great-depression/</guid>
       <description></description>
     </item>
     <item>
       <title>Monetary Policy</title>
-      <link>https://finnschule.github.io/tags/monetary-policy/</link>
+      <link>http://localhost:1313/tags/monetary-policy/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://finnschule.github.io/tags/monetary-policy/</guid>
+      <guid>http://localhost:1313/tags/monetary-policy/</guid>
       <description></description>
     </item>
     <item>
       <title>Production Networks</title>
-      <link>https://finnschule.github.io/tags/production-networks/</link>
+      <link>http://localhost:1313/tags/production-networks/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://finnschule.github.io/tags/production-networks/</guid>
+      <guid>http://localhost:1313/tags/production-networks/</guid>
       <description></description>
     </item>
     <item>
       <title>Search and Matching</title>
-      <link>https://finnschule.github.io/tags/search-and-matching/</link>
+      <link>http://localhost:1313/tags/search-and-matching/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://finnschule.github.io/tags/search-and-matching/</guid>
+      <guid>http://localhost:1313/tags/search-and-matching/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Finance</title>
-      <link>https://finnschule.github.io/tags/public-finance/</link>
+      <link>http://localhost:1313/tags/public-finance/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://finnschule.github.io/tags/public-finance/</guid>
+      <guid>http://localhost:1313/tags/public-finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Public Pensions</title>
-      <link>https://finnschule.github.io/tags/public-pensions/</link>
+      <link>http://localhost:1313/tags/public-pensions/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://finnschule.github.io/tags/public-pensions/</guid>
+      <guid>http://localhost:1313/tags/public-pensions/</guid>
       <description></description>
     </item>
   </channel>
