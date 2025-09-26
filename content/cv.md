@@ -10,7 +10,7 @@ hidemeta: true
 
 ---
 
-[Download PDF](../cv.pdf)
+[Download PDF](../finn_schuele_CV.pdf)
 
 
 ---
@@ -47,13 +47,13 @@ hidemeta: true
 
 ### Teaching
 
+**Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies** (ECON1225), Fall 2023, Fall 2025.
++ Teaching Assistant at Brown University (Undergraduate)
+
 **Advanced International Economics** (ECON2500), Spring 2025.
 + Teaching Assistant at Brown University (Ph.D. Field Class)
 
 **Intermediate Macroeconomics** (ECON1210), Spring 2023, Spring 2024.
-+ Teaching Assistant at Brown University (Undergraduate)
-
-**Advanced Macroeconomics: Monetary, Fiscal, and Stabilization Policies** (ECON1225), Fall 2023.
 + Teaching Assistant at Brown University (Undergraduate)
 
 **Macroeconomics** (ECON2070, ECON2080), Fall 2021, Spring 2022.
