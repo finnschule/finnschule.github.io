@@ -21,7 +21,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am PhD student in Economics at Brown University. My research focuses on macroeconomics, monetary policy, and labor."
+    description: "I am PhD student in Economics at Brown University. My research focuses on macroeconomics, monetary policy, and labor markets."
     author: Finn Schüle
     googleAnalyticsID: "G-V4CLT31NFQ"
     DateFormat: "January 2006"
@@ -52,10 +52,12 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Job-market paper
+              url: /papers/jmp/JMP_Finn_Schuele.pdf
+            - name: Curriculum vitae
+              url: Job_Market_CV__Finn_Schuele.pdf
             - name: Papers
               url: /papers/
-            - name: CV
-              url: /cv/
             - name: Blog Posts
               url: /blog/
 
@@ -66,8 +68,8 @@ params:
           url: mailto:finn_schuele@brown.edu
         - name: GitHub
           url: https://github.com/finnschule
-        - name: Twitter
-          url: https://x.com/FinnSchule
+        #- name: Twitter
+        #  url: https://x.com/FinnSchule
 
     assets:
         disableScrollBarStyle: true
