@@ -24,15 +24,12 @@ I develop a New Keynesian model with input--output linkages, search-and-matching
 
 ---
 
-##### Figure 3a: Response to Forward Guidance Shocks in the Model and in the Data
-
-![](alpha_1_impact_MP_shocks_noFric.pdf)
 
 ---
 
 ##### Citation
 
-Finn Schüle. 2025. "The Phillips Curve and Beveridge Curve in a Multi-Sector Economy."
+Schüle, Finn. 2025. "The Phillips Curve and Beveridge Curve in a Multi-Sector Economy."
 
 ```BibTeX
 @article{ES24,
