@@ -10,7 +10,7 @@ hidemeta: true
 
 ---
 
-[Download PDF](../finn_schuele_CV.pdf)
+[Download PDF](../Job_Market_CV__Finn_Schuele.pdf)
 
 
 ---
