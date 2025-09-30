@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Finn Schüle
-          subtitle: "Hello! I am a PhD student in Economics at Brown University. My research focuses on macroeconomics, monetary economics, production networks, and labor economics. Before starting graduate school, I worked on monetary policy and public finance as a research assistant at the Brookings Institution."
+          subtitle: "I am a **PhD student in Economics at Brown University**. I am a macroeconomist focusing on monetary policy, production networks, and labor markets. **I am on the 2025/26 academic job market.** You can find links to my CV and job market paper below. Before starting graduate school, I worked on monetary policy and public finance as a research assistant at the Brookings Institution. I reveived my M.Sc. in Economics from the University of Warwick and a B.A. in History and Economics from the University of Oxford."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -61,7 +61,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: finn_schuele_CV.pdf
         - name: Email
           url: mailto:finn_schuele@brown.edu
         - name: GitHub
