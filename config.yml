@@ -55,7 +55,7 @@ params:
             - name: Job-market paper
               url: /papers/jmp/JMP_Finn_Schuele.pdf
             - name: Curriculum vitae
-              url: Job_Market_CV__Finn_Schuele.pdf
+              url: Finn_Schuele_CV.pdf
             - name: Papers
               url: /papers/
             - name: Blog Posts
@@ -63,7 +63,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: Job_Market_CV__Finn_Schuele.pdf
+          url: Finn_Schuele_CV.pdf
         - name: Email
           url: mailto:finn_schuele@brown.edu
         - name: GitHub
