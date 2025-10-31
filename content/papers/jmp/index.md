@@ -1,5 +1,5 @@
 ---
-title: "The Phillips Curve and Beveridge Curve in a Multi-Sector Economy" 
+title: "The Phillips and Beveridge Curves in a Multi-Sector Economy" 
 date: 2025-09-30
 lastmod: 2025-09-30
 tags: ["Production Network","Monetary Policy","Labor Market Frictions"]
