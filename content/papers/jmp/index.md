@@ -33,12 +33,12 @@ I develop a New Keynesian model with input-output linkages, search-and-matching 
 
 ##### Citation
 
-Schüle, Finn. 2025. "The Phillips Curve and Beveridge Curve in a Multi-Sector Economy."
+Schüle, Finn. 2025. "The Phillips and Beveridge Curves in a Multi-Sector Economy."
 
 ```BibTeX
 @article{Schule25,
 author = {Finn Schüle},
 year = {2025},
-title ={The Phillips Curve and Beveridge Curve in a Multi-Sector Economy}
+title ={The Phillips and Beveridge Curves in a Multi-Sector Economy}
 }
 ```
