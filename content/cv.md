@@ -59,3 +59,12 @@ hidemeta: true
 **Macroeconomics** (ECON2070, ECON2080), Fall 2021, Spring 2022.
 + Teaching Assistant at Brown University (Ph.D. First Year Sequence)
 
+---
+
+### Awards
+
+**George Borts' Prize for Best Dissertation in Economics**, Brown University, 2025
+
+**Merit Dissertation Fellowship**, Brown University, 2024
+
+**Graduate Student Teaching Award**, Brown University, 2024
