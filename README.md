@@ -10,7 +10,7 @@ The template is documented at https://pascalmichaillat.org/d5/.
 
 ### Updating
 
-1. Alter markdown files in /content/ and add pdf necessary pdf files. (For papers, add pdfs to /papers/ folder in content, for cv add pdf to /public/)
+1. Alter markdown files in /content/ and add necessary pdf files. (For papers, add pdfs to /papers/ folder in content, for cv add pdf to /public/)
 
 2. Commit changes and push to Github
 
