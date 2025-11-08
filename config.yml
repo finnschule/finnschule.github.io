@@ -52,9 +52,9 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Job-market paper
+            - name: Job Market Paper
               url: /papers/jmp/JMP_Finn_Schuele.pdf
-            - name: Curriculum vitae
+            - name: Curriculum Vitae
               url: Finn_Schuele_CV.pdf
             - name: Papers
               url: /papers/
