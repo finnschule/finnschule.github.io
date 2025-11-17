@@ -1,7 +1,7 @@
 ---
 title: "The Phillips and Beveridge Curves in a Multi-Sector Economy" 
-date: 2025-09-30
-lastmod: 2025-09-30
+date: 2025-11-07
+lastmod: 2025-11-07
 tags: ["Production Network","Monetary Policy","Labor Market Frictions"]
 author: ["Finn Schüle"]
 description: "I develop a New Keynesian model with input--output linkages, search-and-matching frictions, and sticky prices to study how shocks propagate to output and inflation." 
