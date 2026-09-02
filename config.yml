@@ -21,7 +21,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am PhD student in Economics at Brown University. My research focuses on macroeconomics, monetary policy, and labor markets."
+    description: "I am an economist at the Federal Reserve Board. My research focuses on macroeconomics, monetary policy, and labor markets."
     author: Finn Schüle
     googleAnalyticsID: "G-V4CLT31NFQ"
     DateFormat: "January 2006"
@@ -47,13 +47,11 @@ params:
     profileMode:
           enabled: true
           title: Finn Schüle
-          subtitle: "I am a **PhD student in Economics at Brown University**. I am a macroeconomist focusing on monetary policy, production networks, and labor markets. **I am on the 2025/26 academic job market.** You can find links to my CV and job market paper below. Before starting graduate school, I worked on monetary policy and public finance as a research assistant at the Brookings Institution. I reveived my M.Sc. in Economics from the University of Warwick and a B.A. in History and Economics from the University of Oxford."
+          subtitle: "I am an economist in the Trade and Financial Studies Section of the Division of International Finance at the Federal Reserve Board. I am a macroeconomist focusing on **monetary policy**, **production networks**, and **labor markets**. I received my Ph.D. from Brown University. Before starting graduate school, I worked on monetary policy and public finance as a research assistant at the Brookings Institution, received an M.Sc. in Economics from the University of Warwick, and a B.A. in History and Economics from the University of Oxford."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Job Market Paper
-              url: /papers/jmp/JMP_Finn_Schuele.pdf
             - name: Curriculum Vitae
               url: Finn_Schuele_CV.pdf
             - name: Papers
@@ -65,7 +63,7 @@ params:
         - name: CV
           url: Finn_Schuele_CV.pdf
         - name: Email
-          url: mailto:finn_schuele@brown.edu
+          url: mailto:finn.d.schuele@frb.gov
         - name: GitHub
           url: https://github.com/finnschule
         #- name: Twitter

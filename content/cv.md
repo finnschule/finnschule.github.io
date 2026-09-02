@@ -17,7 +17,7 @@ hidemeta: true
 
 ### Education
 
-**Brown University**, 2020 - 2026 (Expected)
+**Brown University**, 2020 - 2026
 
 + Ph.D. Economics
 
@@ -33,6 +33,10 @@ hidemeta: true
 ---
 
 ### Experience
+
+**Federal Reserve Board**, 2026 - Present
+
++ Economist, Trade & Financial Studies, Division of International Finance
 
 **Brookings Institution**, 2018 - 2020
 

@@ -1,11 +1,11 @@
 ---
 title: "The Phillips and Beveridge Curves in a Multi-Sector Economy" 
 date: 2025-11-07
-lastmod: 2026-01-14
+lastmod: 2026-03-23
 tags: ["Production Network","Monetary Policy","Labor Market Frictions"]
 author: ["Finn Schüle"]
 description: "I develop a New Keynesian model with input--output linkages, search-and-matching frictions, and sticky prices to study how shocks propagate to output and inflation." 
-summary: "(JOB MARKET PAPER) I develop a New Keynesian model with input-output linkages, search-and-matching frictions, and sticky prices to study how sector-specific shocks affect output and inflation. Firms draw workers from a common labor pool, creating a novel labor market propagation channel: higher demand in one sector raises wages and job-finding rates there, redirects job search, and increases hiring costs elsewhere. Solving the model nonlinearly shows that sectors' importance for inflation and monetary policy is state-dependent---sectors with tighter labor markets raise prices more in response to demand or supply changes.The resulting Phillips curve steepens as tightness (vacancies over unemployment) rises, consistent with recent evidence, implying that monetary policy has larger effects on inflation but smaller effects on output when some sectors are tight. " 
+summary: "I develop a New Keynesian model with input-output linkages, search-and-matching frictions, and sticky prices to study how sector-specific shocks affect output and inflation. Firms draw workers from a common labor pool, creating a novel labor market propagation channel: higher demand in one sector raises wages and job-finding rates there, redirects job search, and increases hiring costs elsewhere. Solving the model nonlinearly shows that sectors' importance for inflation and monetary policy is state-dependent---sectors with tighter labor markets raise prices more in response to demand or supply changes.The resulting Phillips curve steepens as tightness (vacancies over unemployment) rises, consistent with recent evidence, implying that monetary policy has larger effects on inflation but smaller effects on output when some sectors are tight. " 
 
 
 ---
@@ -14,7 +14,7 @@ summary: "(JOB MARKET PAPER) I develop a New Keynesian model with input-output l
 
 ##### Download
 
-+ [**Job Market Paper**](JMP_Finn_Schuele.pdf)
++ [Paper](JMP_Finn_Schuele.pdf)
 
 ---
 
