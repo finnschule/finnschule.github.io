@@ -14,7 +14,7 @@ summary: "I develop a New Keynesian model with input-output linkages, search-and
 
 ##### Download
 
-+ [Paper](JMP_Finn_Schuele.pdf)
++ [Paper](schule_phillips_and_beveridge.pdf)
 
 ---
 
