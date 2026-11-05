@@ -20,7 +20,7 @@ summary: "I develop a New Keynesian model with input-output linkages, search-and
 
 ##### Abstract
 
-I develop a New Keynesian model with input-output linkages, search-and-matching frictions, and sticky prices to study how sector-specific shocks affect output and inflation. Firms draw workers from a common labor pool, creating a novel labor market propagation channel: higher demand in one sector raises wages and job-finding rates there, redirects job search, and increases hiring costs elsewhere. Solving the model nonlinearly shows that sectors' importance for inflation and monetary policy is state-dependent---sectors with tighter labor markets raise prices more in response to demand or supply changes.The resulting Phillips curve steepens as tightness (vacancies over unemployment) rises, consistent with recent evidence, implying that monetary policy has larger effects on inflation but smaller effects on output when some sectors are tight. Calibrated to U.S. data, the model shows that the post-COVID shift toward goods demand alone explains about 2.8 percentage points of inflation and much of the observed decline in matching efficiency.
+I develop a New Keynesian model with input-output linkages, search-and-matching frictions, and sticky prices to study how sector-specific shocks affect output and inflation. Firms draw workers from a common labor pool, creating a novel labor market propagation channel: higher demand in one sector raises wages and job-finding rates there, redirects job search, and increases hiring costs elsewhere. Solving the model nonlinearly shows that sectors' importance for inflation and monetary policy is state-dependent---sectors with tighter labor markets raise prices more in response to changes in demand or supply. Both sectoral and aggregate Phillips curves steepen as tightness (vacancies over unemployment) rises, consistent with recent evidence, implying that monetary policy has larger effects on inflation but smaller effects on output when labor markets in some sectors are tight. Calibrated to U.S. data, the model shows that the post-COVID shift toward goods demand alone explains about 2.9 percentage points of inflation and much of the observed decline in matching efficiency.
 
 ---
 
@@ -33,12 +33,12 @@ I develop a New Keynesian model with input-output linkages, search-and-matching 
 
 ##### Citation
 
-Schüle, Finn. 2025. "The Phillips and Beveridge Curves in a Multi-Sector Economy."
+Schüle, Finn. 2026. "The Phillips and Beveridge Curves in a Multi-Sector Economy."
 
 ```BibTeX
-@article{Schule25,
+@article{Schule26,
 author = {Finn Schüle},
-year = {2025},
+year = {2026},
 title ={The Phillips and Beveridge Curves in a Multi-Sector Economy}
 }
 ```

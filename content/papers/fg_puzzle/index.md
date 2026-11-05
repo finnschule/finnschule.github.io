@@ -32,7 +32,7 @@ The forward guidance puzzle is usually read as a failure of the New Keynesian mo
 
 ##### Citation
 
-Eggertsson, Gauti B., and Finn Schüle. 2024. "The Forward Guidance Puzzle is Not a Puzzle." *NBER Working Paper* 33180. https://www.nber.org/system/files/working_papers/w33180/w33180.pdf.
+Eggertsson, Gauti B., and Finn Schüle. 2024. "Resolving the Forward Guidance Puzzle: Theory and Evidence from the Great Depression and the Great Recession." *NBER Working Paper* 33180. https://www.nber.org/system/files/working_papers/w33180/w33180.pdf.
 
 ```BibTeX
 @article{ES24,
